@@ -1,8 +1,7 @@
-  # 🔭 OPITT: Observatorio de Prospectiva Industrial y Transferencia Tecnológica
-
 <p align="center">
-  <img src=" master/data/processed/generated-image.png" alt="OPITT - Observatorio Prospectiva Industrial para la transferencia tecnológica" width="100%">
+  <img src="data/processed/generated-image.png" alt="OPITT - Observatorio Prospectiva Industrial" width="100%">
 </p>
+
 
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Estado: Activo](https://img.shields.io/badge/Estado-En_Desarrollo-green)](https://github.com/tu-usuario/opitt)
