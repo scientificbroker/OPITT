@@ -1,0 +1,20 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+.env
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+ehthumbs.db
+Desktop.ini
+
+# Data (optional - adjust as needed)
+# data/raw/*
+# !data/raw/.gitkeep
